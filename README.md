@@ -1,4 +1,4 @@
-# Introduction-to-Autonomous-System-and-ROS-2
+# Introduction to Autonomous System and ROS 2
 
 | Nama  | Division        | Sub-Division  |
 | ----- | ---------- | ---------- |
